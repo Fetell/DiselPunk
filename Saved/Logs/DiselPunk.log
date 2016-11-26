@@ -1537,3 +1537,580 @@ LogInit: Object subsystem initialized
 [2016.11.26-10.56.35:776][667]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
 [2016.11.26-10.56.35:776][667]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
 [2016.11.26-10.56.51:173][238]SourceControl: Info Source control is disabled
+[2016.11.26-17.43.36:075][  8]LogHttp:Warning: 000001FD2432C700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.26-17.43.36:075][  8]LogHttp:Warning: 000001FD2432C700: libcurl info message cache 0 (Connection 84 seems to be dead!)
+[2016.11.26-17.43.36:075][  8]LogHttp:Warning: 000001FD2432C700: libcurl info message cache 1 (Closing connection 84)
+[2016.11.26-17.43.36:075][  8]LogHttp:Warning: 000001FD2432C700: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.26-17.43.36:075][  8]LogHttp:Warning: 000001FD2432C700: libcurl info message cache 3 (Closing connection 85)
+[2016.11.26-17.54.35:161][138]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-17.54.35:161][138]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.01.46:943][396]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.01.46:943][396]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.01.55:669][730]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.01.55:670][730]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.06.36:170][755]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.06.36:170][755]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.06.41:278][902]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.26-18.06.45:558][  4]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.11.26-18.08.01:504][292]LogSavePackage: Save=319.14ms
+[2016.11.26-18.08.01:504][292]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonExampleMap_Auto4D83B43CB432FB195408B578299EF86CB.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2016.11.26-18.08.01:506][292]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap
+[2016.11.26-18.08.01:518][292]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 3.359
+[2016.11.26-18.08.01:518][292]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.359
+[2016.11.26-18.08.01:524][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2016.11.26-18.08.01:632][292]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2016.11.26-18.08.01:632][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2016.11.26-18.08.02:103][292]LogSavePackage: Save=219.54ms
+[2016.11.26-18.08.02:103][292]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonCharacter_Auto4E3D3E49B4B6441BE6B96B5BC4F2C27A0.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto4.uasset'
+[2016.11.26-18.08.02:105][292]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto4.uasset
+[2016.11.26-18.08.02:105][292]LogFileHelpers: Auto-saving content packages took 0.583
+[2016.11.26-18.08.45:385][689]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.08.45:386][689]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.10.02:678][ 86]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.10.02:679][ 86]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.11.21:955][667]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.11.21:955][667]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.11.38:990][367]LogClass:Warning: Type mismatch in Inventory of SKEL_FirstPersonCharacter_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2016.11.26-18.12.49:495][221]LogHttp:Warning: 000001FD1C15B580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.26-18.12.49:495][221]LogHttp:Warning: 000001FD1C15B580: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1fc5bca7010 [can pipeline])
+[2016.11.26-18.12.49:495][221]LogHttp:Warning: 000001FD1C15B580: libcurl info message cache 1 (Re-using existing connection! (#96) with host datarouter.ol.epicgames.com)
+[2016.11.26-18.12.49:495][221]LogHttp:Warning: 000001FD1C15B580: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.5.234.188) port 443 (#96))
+[2016.11.26-18.12.49:495][221]LogHttp:Warning: 000001FD1C15B580: libcurl info message cache 3 (upload completely sent off: 609 out of 609 bytes)
+[2016.11.26-18.12.49:495][221]LogHttp:Warning: 000001FD1C15B580: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2016.11.26-18.12.49:495][221]LogHttp:Warning: 000001FD1C15B580: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2016.11.26-18.12.49:495][221]LogHttp:Warning: 000001FD1C15B580: libcurl info message cache 6 (Closing connection 96)
+[2016.11.26-18.12.49:496][221]LogHttp:Warning: 000001FD1C15B580: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B592BCBC7-45B0-1087-B691-AEAAB9D70A32%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.0-3195953%2B%2B%2BUE4%2BRelease-4.14&UserID=5b31f1df4b0cb8c42ae7259dfbf6563a%7C2a4157a84b214117ab32e64f17287051%7C0f81ceae-7f4c-4123-95c2-f02953da27d3&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2016.11.26-18.12.49:496][221]LogHttp:Warning: 000001FD1C15B580: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.26-18.12.49:496][221]LogHttp:Warning: 000001FD1C15B580: libcurl info message cache 9 (Closing connection 97)
+[2016.11.26-18.13.48:722][552]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.11.26-18.13.52:991][672]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.11.26-18.17.51:177][326]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.17.51:177][326]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.18.18:311][453]LogSavePackage: Save=240.47ms
+[2016.11.26-18.18.18:311][453]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonExampleMap_Auto5B4FC9B124770E0259DBBA7BE371C78B1.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2016.11.26-18.18.18:323][453]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap
+[2016.11.26-18.18.18:326][453]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.378
+[2016.11.26-18.18.18:326][453]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.378
+[2016.11.26-18.18.18:330][453]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2016.11.26-18.18.18:396][453]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2016.11.26-18.18.18:396][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2016.11.26-18.18.18:555][453]LogSavePackage: Save=132.29ms
+[2016.11.26-18.18.18:555][453]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonCharacter_Auto51AFFA69A4239059A2B891C8F7E638E2D.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto5.uasset'
+[2016.11.26-18.18.18:558][453]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto5.uasset
+[2016.11.26-18.18.18:558][453]LogFileHelpers: Auto-saving content packages took 0.230
+[2016.11.26-18.18.29:470][561]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.11.26-18.18.30:592][583]LogSavePackage: Save=127.60ms
+[2016.11.26-18.18.30:592][583]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonCharacter071AE1A542D83347B16CB4A3E9254A78.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2016.11.26-18.18.30:602][583]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2016.11.26-18.18.40:778][792]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2016.11.26-18.18.41:362][797]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DiselPunk
+
+[2016.11.26-18.18.41:362][797]LogTemp:Display: CWD: E:\Games\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2016.11.26-18.18.41:362][797]LogTemp:Display: Initial Dir: E:\Games\Epic Games\4.14
+
+[2016.11.26-18.18.41:362][797]LogTemp:Display: Env CWD: E:\Games\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2016.11.26-18.18.41:362][797]LogTemp:Display: BranchPath = DESKTOP-47GFG8L/E/Games/Epic Games/4.14/Engine/Binaries --- GameBranchPath = DESKTOP-47GFG8L/E/Games/Epic Games/4.14/Engine/Binaries
+
+[2016.11.26-18.18.41:428][800]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: ?? 㤠???? ????? ????? ???? "C:\Users\Dean\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles".
+
+[2016.11.26-18.18.41:428][800]LogTemp:Display:    ? System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2016.11.26-18.18.41:428][800]LogTemp:Display:    ? System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2016.11.26-18.18.41:428][800]LogTemp:Display:    ? System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2016.11.26-18.18.41:428][800]LogTemp:Display:    ? iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2016.11.26-18.18.41:428][800]LogTemp:Display:    ? iPhonePackager.Program.Main(String[] args)
+
+[2016.11.26-18.19.01:190][629]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.19.01:190][629]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.21.44:488][789]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.11.26-18.23.07:011][134]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.26-18.24.04:562][818]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.24.04:562][818]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.24.18:491][ 56]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.24.18:491][ 56]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.27.36:895][535]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.11.26-18.27.37:034][535]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error This blueprint (self) is not a UserWidget, therefore ' self ' must have a connection.
+[2016.11.26-18.27.37:996][535]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a UserWidget, therefore ' self ' must have a connection.
+[2016.11.26-18.27.37:997][535]LogBlueprint:Warning: [Compiler FirstPersonCharacter] Warning [0577.78] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 1,101 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2016.11.26-18.28.09:641][263]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.11.26-18.28.10:809][279]LogSavePackage: Save=191.28ms
+[2016.11.26-18.28.10:809][279]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonCharacter8403DD68413C826636F31292791C2A71.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2016.11.26-18.28.10:813][279]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2016.11.26-18.28.41:146][527]LogSavePackage: Save=225.30ms
+[2016.11.26-18.28.41:146][527]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonExampleMap_Auto660BF3D344BAD2B1CF593FE9FF1C197FD.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2016.11.26-18.28.41:150][527]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap
+[2016.11.26-18.28.41:153][527]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.323
+[2016.11.26-18.28.41:153][527]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.323
+[2016.11.26-18.34.44:041][933]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.34.44:041][933]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.37.08:204][950]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.37.08:204][950]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.37.28:246][435]BlueprintLog: New page: Compile UI_Inventory
+[2016.11.26-18.37.29:121][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Inventory" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset" SILENT=true
+[2016.11.26-18.37.29:188][452]LogSavePackage: Save=20.09ms
+[2016.11.26-18.37.29:188][452]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_Inventory067D5FAD482EAA4B6E94EA91F41C52B5.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset'
+[2016.11.26-18.37.29:218][452]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset
+[2016.11.26-18.37.51:404][967]BlueprintLog: New page: Compile UI_Inventory
+[2016.11.26-18.37.52:279][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Inventory" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset" SILENT=true
+[2016.11.26-18.37.52:313][982]LogSavePackage: Save=18.73ms
+[2016.11.26-18.37.52:313][982]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_InventoryB6A9C65E43A0725B7B49278B8425F8D1.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset'
+[2016.11.26-18.37.52:316][982]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset
+[2016.11.26-18.38.27:854][248]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.26-18.38.27:894][248]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.11.26-18.38.27:950][248]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.11.26-18.38.27:950][248]LogPlayLevel: [PlayLevel] Compiling InteractableObject before play...
+[2016.11.26-18.38.27:972][248]LogPlayLevel: [PlayLevel]   Compiling Base_Item as a dependent...
+[2016.11.26-18.38.28:457][248]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2016.11.26-18.38.28:774][248]LogPlayLevel: PlayLevel: Blueprint regeneration took 824 ms (3 blueprints)
+[2016.11.26-18.38.28:783][248]PIE: New page: PIE session: FirstPersonExampleMap (Nov 26, 2016, 10:38:28 PM)
+[2016.11.26-18.38.28:794][248]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.11.26-18.38.29:231][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.436792s)
+[2016.11.26-18.38.29:289][248]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.11.26-18.38.29:322][248]LogPlayLevel: PIE: World Init took: (0.090835s)
+[2016.11.26-18.38.29:322][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.528137s)
+[2016.11.26-18.38.29:430][248]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.26-18.38.29:496][248]LogInit: FAudioDevice initialized.
+[2016.11.26-18.38.29:627][248]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.11.26-18.38.29:657][248]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2016.11.26-20.38.29
+[2016.11.26-18.38.29:695][248]LogWorld: Bringing up level for play took: 0.052762
+[2016.11.26-18.38.29:928][248]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 2.065
+[2016.11.26-18.38.29:929][248]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.11.26-18.38.43:443][896]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-925.552 Y=740.549 Z=300.224] for [FirstPersonProjectile_C]
+[2016.11.26-18.38.46:973][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.11.26-18.38.47:110][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.11.26-18.39.12:421][186]LogSavePackage: Save=354.51ms
+[2016.11.26-18.39.12:421][186]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonExampleMap_Auto76EFCD503489F9899170FEEA5B8F4AA4A.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap'
+[2016.11.26-18.39.12:424][186]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap
+[2016.11.26-18.39.12:432][186]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.471
+[2016.11.26-18.39.12:432][186]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.471
+[2016.11.26-18.39.12:436][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InteractableObject] ([1] browsable assets)...
+[2016.11.26-18.39.12:436][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/InteractableObject]
+[2016.11.26-18.39.12:436][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InteractableObject" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/InteractableObject_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-18.39.12:542][186]LogSavePackage: Save=21.48ms
+[2016.11.26-18.39.12:542][186]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/InteractableObject_Auto7C9DD5BE640011C90918874856525B314.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/InteractableObject_Auto7.uasset'
+[2016.11.26-18.39.12:544][186]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/InteractableObject_Auto7.uasset
+[2016.11.26-18.39.12:544][186]LogFileHelpers: Auto-saving content packages took 0.110
+[2016.11.26-18.42.56:255][858]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.42.56:256][858]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.46.35:607][689]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.46.35:609][689]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.47.21:704][279]BlueprintLog: New page: Compile UI_InventoryItem
+[2016.11.26-18.47.22:635][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_InventoryItem" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset" SILENT=true
+[2016.11.26-18.47.22:753][295]LogSavePackage: Save=40.61ms
+[2016.11.26-18.47.22:753][295]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_InventoryItem5F094DE84469DF1FA4D228B1D587B162.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset'
+[2016.11.26-18.47.22:757][295]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset
+[2016.11.26-18.47.54:574][831]BlueprintLog: New page: Compile UI_InventoryItem
+[2016.11.26-18.47.55:344][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_InventoryItem" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset" SILENT=true
+[2016.11.26-18.47.55:369][845]LogSavePackage: Save=14.66ms
+[2016.11.26-18.47.55:369][845]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_InventoryItemEB564F024196E3961E5785B35F566579.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset'
+[2016.11.26-18.47.55:373][845]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset
+[2016.11.26-18.48.43:873][720]BlueprintLog: New page: Compile UI_InventoryItem
+[2016.11.26-18.48.44:584][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_InventoryItem" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset" SILENT=true
+[2016.11.26-18.48.44:612][735]LogSavePackage: Save=19.50ms
+[2016.11.26-18.48.44:612][735]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_InventoryItem54A7B6C849E9DDEEAFFD8AB7A7C441F1.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset'
+[2016.11.26-18.48.44:696][735]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset
+[2016.11.26-18.51.29:372][272]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.51.29:372][272]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.52.47:224][344]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.26-18.52.47:321][344]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.11.26-18.52.47:322][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.26-18.52.47:322][344]PIE: New page: PIE session: FirstPersonExampleMap (Nov 26, 2016, 10:52:47 PM)
+[2016.11.26-18.52.47:322][344]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.11.26-18.52.47:366][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043520s)
+[2016.11.26-18.52.47:371][344]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.11.26-18.52.47:372][344]LogPlayLevel: PIE: World Init took: (0.005366s)
+[2016.11.26-18.52.47:372][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.049660s)
+[2016.11.26-18.52.47:482][344]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.26-18.52.47:501][344]LogInit: FAudioDevice initialized.
+[2016.11.26-18.52.47:540][344]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.11.26-18.52.47:545][344]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2016.11.26-20.52.47
+[2016.11.26-18.52.47:545][344]LogWorld: Bringing up level for play took: 0.004580
+[2016.11.26-18.52.47:548][344]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.315
+[2016.11.26-18.52.47:549][344]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.11.26-18.53.05:388][217]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-1110.619 Y=167.303 Z=318.159] for [FirstPersonProjectile_C]
+[2016.11.26-18.53.05:814][237]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-1166.584 Y=154.920 Z=233.370] for [FirstPersonProjectile_C]
+[2016.11.26-18.53.24:288][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.11.26-18.53.24:493][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.11.26-18.54.42:956][187]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.54.42:956][187]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.55.28:677][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.136
+[2016.11.26-18.55.28:681][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_Inventory] ([1] browsable assets)...
+[2016.11.26-18.55.28:681][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Inventory]
+[2016.11.26-18.55.28:681][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Inventory" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-18.55.28:733][ 36]LogSavePackage: Save=30.47ms
+[2016.11.26-18.55.28:733][ 36]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_Inventory_Auto881EFCF4F44C6AF2CF50746A96A62B999.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto8.uasset'
+[2016.11.26-18.55.28:740][ 36]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto8.uasset
+[2016.11.26-18.55.28:740][ 36]LogFileHelpers: Auto-saving content packages took 0.062
+[2016.11.26-18.56.35:810][238]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.56.35:810][238]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.58.27:421][825]LogHttp:Warning: 000001FD566EA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.11.26-18.58.27:421][825]LogHttp:Warning: 000001FD566EA980: libcurl info message cache 0 (Connection 118 seems to be dead!)
+[2016.11.26-18.58.27:421][825]LogHttp:Warning: 000001FD566EA980: libcurl info message cache 1 (Closing connection 118)
+[2016.11.26-18.58.27:421][825]LogHttp:Warning: 000001FD566EA980: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2016.11.26-18.58.27:421][825]LogHttp:Warning: 000001FD566EA980: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.11.26-18.58.27:421][825]LogHttp:Warning: 000001FD566EA980: libcurl info message cache 4 (Closing connection 119)
+[2016.11.26-18.58.28:955][881]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-18.58.28:955][881]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.05.29:549][197]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.090
+[2016.11.26-19.05.29:551][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_Inventory] ([1] browsable assets)...
+[2016.11.26-19.05.29:551][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Inventory]
+[2016.11.26-19.05.29:551][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Inventory" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-19.05.29:643][197]LogSavePackage: Save=76.93ms
+[2016.11.26-19.05.29:643][197]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_Inventory_Auto9C8C93C084446EA7498D377B8C1E761B1.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto9.uasset'
+[2016.11.26-19.05.29:645][197]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto9.uasset
+[2016.11.26-19.05.29:645][197]LogFileHelpers: Auto-saving content packages took 0.095
+[2016.11.26-19.09.21:425][893]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.09.21:425][893]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.09.45:349][185]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.09.45:349][185]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.09.49:968][351]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.26-19.13.44:274][536]BlueprintLog: New page: Collapse to Function
+[2016.11.26-19.14.20:865][567]BlueprintLog: New page: Compile UI_Inventory
+[2016.11.26-19.14.21:753][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Inventory" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset" SILENT=true
+[2016.11.26-19.14.21:827][580]LogSavePackage: Save=49.27ms
+[2016.11.26-19.14.21:827][580]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_Inventory4FE9D0464D241BE636D47683DC5D4531.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset'
+[2016.11.26-19.14.21:834][580]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset
+[2016.11.26-19.15.36:725][146]LogSavePackage: Save=264.34ms
+[2016.11.26-19.15.36:725][146]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonExampleMap_Auto01AB128264281B36091C7DDB61F6F78B1.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto0.umap'
+[2016.11.26-19.15.36:774][146]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto0.umap
+[2016.11.26-19.15.36:777][146]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.435
+[2016.11.26-19.15.36:777][146]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.435
+[2016.11.26-19.15.36:783][146]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_Inventory] ([1] browsable assets)...
+[2016.11.26-19.15.36:783][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Inventory]
+[2016.11.26-19.15.36:783][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Inventory" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-19.15.36:865][146]LogSavePackage: Save=75.47ms
+[2016.11.26-19.15.36:865][146]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_Inventory_Auto0A769FA9542E1F6C3729C99853635AD75.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto0.uasset'
+[2016.11.26-19.15.36:868][146]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto0.uasset
+[2016.11.26-19.15.36:869][146]LogFileHelpers: Auto-saving content packages took 0.089
+[2016.11.26-19.21.25:373][247]BlueprintLog: New page: Compile UI_Inventory
+[2016.11.26-19.21.26:468][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Inventory" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset" SILENT=true
+[2016.11.26-19.21.26:591][266]LogSavePackage: Save=103.78ms
+[2016.11.26-19.21.26:591][266]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_InventoryB244558E48EDEE2EF037BF8337165A76.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset'
+[2016.11.26-19.21.26:608][266]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset
+[2016.11.26-19.22.41:505][ 30]BlueprintLog: New page: Collapse to Function
+[2016.11.26-19.23.44:773][462]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.23.44:773][462]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.25.12:876][122]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.25.12:876][122]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.26.19:565][155]LogSavePackage: Save=270.80ms
+[2016.11.26-19.26.19:565][155]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonExampleMap_Auto17403E22D40155D2E05D96C8CF6EFDB51.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2016.11.26-19.26.19:568][155]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2016.11.26-19.26.19:570][155]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.417
+[2016.11.26-19.26.19:570][155]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.417
+[2016.11.26-19.26.19:574][155]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_Inventory] ([1] browsable assets)...
+[2016.11.26-19.26.19:574][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Inventory]
+[2016.11.26-19.26.19:574][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Inventory" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-19.26.19:632][155]LogSavePackage: Save=51.76ms
+[2016.11.26-19.26.19:633][155]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_Inventory_Auto1D24016FA45FF9A71EB540BB99970A996.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto1.uasset'
+[2016.11.26-19.26.19:634][155]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto1.uasset
+[2016.11.26-19.26.19:634][155]LogFileHelpers: Auto-saving content packages took 0.062
+[2016.11.26-19.29.46:318][ 15]BlueprintLog: New page: Collapse to Function
+[2016.11.26-19.31.16:961][688]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.31.16:961][688]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.31.33:859][783]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.31.33:859][783]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.31.34:935][824]BlueprintLog: New page: Compile UI_Inventory
+[2016.11.26-19.31.35:787][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Inventory" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset" SILENT=true
+[2016.11.26-19.31.35:927][838]LogSavePackage: Save=76.17ms
+[2016.11.26-19.31.35:927][838]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_Inventory723007AB4544EEB43F6DC1A6751C2DCE.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset'
+[2016.11.26-19.31.35:971][838]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset
+[2016.11.26-19.33.14:738][264]BlueprintLog: New page: Compile UI_InventoryItem
+[2016.11.26-19.33.15:567][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_InventoryItem" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset" SILENT=true
+[2016.11.26-19.33.15:604][279]LogSavePackage: Save=20.00ms
+[2016.11.26-19.33.15:604][279]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_InventoryItem2323C3D548CAE53B93B7E9BB77BE4D5E.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset'
+[2016.11.26-19.33.15:609][279]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset
+[2016.11.26-19.36.16:632][205]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.36.16:632][205]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-19.36.23:492][430]LogSavePackage: Save=298.79ms
+[2016.11.26-19.36.23:492][430]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonExampleMap_Auto294AE9A674E8668ED061FDD8803E8B7F0.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2016.11.26-19.36.23:496][430]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap
+[2016.11.26-19.36.23:498][430]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.434
+[2016.11.26-19.36.23:498][430]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.434
+[2016.11.26-19.36.23:502][430]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_InventoryItem] ([1] browsable assets)...
+[2016.11.26-19.36.23:502][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_InventoryItem]
+[2016.11.26-19.36.23:502][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_InventoryItem" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_InventoryItem_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-19.36.23:540][430]LogSavePackage: Save=30.58ms
+[2016.11.26-19.36.23:540][430]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_InventoryItem_Auto21BDCC0FF4844E13E2DF03BB0CE227321.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_InventoryItem_Auto2.uasset'
+[2016.11.26-19.36.23:550][430]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_InventoryItem_Auto2.uasset
+[2016.11.26-19.36.23:550][430]LogFileHelpers: Auto-saving content packages took 0.049
+[2016.11.26-19.36.33:354][681]LogTemp: Repeting last play command: Selected Viewport
+[2016.11.26-19.36.33:397][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.11.26-19.36.33:397][681]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.11.26-19.36.33:397][681]LogPlayLevel: [PlayLevel] Compiling UI_InventoryItem before play...
+[2016.11.26-19.36.33:679][681]LogPlayLevel: PlayLevel: Blueprint regeneration took 281 ms (1 blueprints)
+[2016.11.26-19.36.33:680][681]PIE: New page: PIE session: FirstPersonExampleMap (Nov 26, 2016, 11:36:33 PM)
+[2016.11.26-19.36.33:680][681]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.11.26-19.36.33:718][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037699s)
+[2016.11.26-19.36.33:723][681]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.11.26-19.36.33:724][681]LogPlayLevel: PIE: World Init took: (0.005971s)
+[2016.11.26-19.36.33:724][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.044251s)
+[2016.11.26-19.36.33:803][681]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.26-19.36.33:819][681]LogInit: FAudioDevice initialized.
+[2016.11.26-19.36.33:857][681]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2016.11.26-19.36.33:862][681]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2016.11.26-21.36.33
+[2016.11.26-19.36.33:863][681]LogWorld: Bringing up level for play took: 0.005126
+[2016.11.26-19.36.33:867][681]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.004
+[2016.11.26-19.36.33:868][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.11.26-19.36.35:854][769]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array TargetArray of length 0!
+[2016.11.26-19.36.35:854][769]LogScriptCore:Warning: Script Msg: Attempted to access index 0 from array Inventory of length 0!
+[2016.11.26-19.36.35:854][769]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array TargetArray of length 0!
+[2016.11.26-19.36.35:854][769]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array Inventory of length 0!
+[2016.11.26-19.36.35:854][769]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array TargetArray of length 0!
+[2016.11.26-19.36.35:854][769]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array Inventory of length 0!
+[2016.11.26-19.36.35:855][769]LogScriptCore:Warning: Script Msg: Attempted to access index 3 from array TargetArray of length 0!
+[2016.11.26-19.36.35:855][769]LogScriptCore:Warning: Script Msg: Attempted to access index 3 from array Inventory of length 0!
+[2016.11.26-19.36.35:855][769]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array TargetArray of length 0!
+[2016.11.26-19.36.35:855][769]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array Inventory of length 0!
+[2016.11.26-19.36.35:855][769]LogScriptCore:Warning: Script Msg: Attempted to access index 5 from array TargetArray of length 0!
+[2016.11.26-19.36.35:855][769]LogScriptCore:Warning: Script Msg: Attempted to access index 5 from array Inventory of length 0!
+[2016.11.26-19.36.35:855][769]LogScriptCore:Warning: Script Msg: Attempted to access index 6 from array TargetArray of length 0!
+[2016.11.26-19.36.35:855][769]LogScriptCore:Warning: Script Msg: Attempted to access index 6 from array Inventory of length 0!
+[2016.11.26-19.36.35:855][769]LogScriptCore:Warning: Script Msg: Attempted to access index 7 from array TargetArray of length 0!
+[2016.11.26-19.36.35:855][769]LogScriptCore:Warning: Script Msg: Attempted to access index 7 from array Inventory of length 0!
+[2016.11.26-19.36.35:856][769]LogScriptCore:Warning: Script Msg: Attempted to access index 8 from array TargetArray of length 0!
+[2016.11.26-19.36.35:856][769]LogScriptCore:Warning: Script Msg: Attempted to access index 8 from array Inventory of length 0!
+[2016.11.26-19.36.35:856][769]LogScriptCore:Warning: Script Msg: Attempted to access index 9 from array TargetArray of length 0!
+[2016.11.26-19.36.35:856][769]LogScriptCore:Warning: Script Msg: Attempted to access index 9 from array Inventory of length 0!
+[2016.11.26-19.36.35:856][769]LogScriptCore:Warning: Script Msg: Attempted to access index 10 from array TargetArray of length 0!
+[2016.11.26-19.36.35:856][769]LogScriptCore:Warning: Script Msg: Attempted to access index 10 from array Inventory of length 0!
+[2016.11.26-19.36.35:856][769]LogScriptCore:Warning: Script Msg: Attempted to access index 11 from array TargetArray of length 0!
+[2016.11.26-19.36.35:856][769]LogScriptCore:Warning: Script Msg: Attempted to access index 11 from array Inventory of length 0!
+[2016.11.26-19.36.35:857][769]LogScriptCore:Warning: Script Msg: Attempted to access index 12 from array TargetArray of length 0!
+[2016.11.26-19.36.35:857][769]LogScriptCore:Warning: Script Msg: Attempted to access index 12 from array Inventory of length 0!
+[2016.11.26-19.36.35:857][769]LogScriptCore:Warning: Script Msg: Attempted to access index 13 from array TargetArray of length 0!
+[2016.11.26-19.36.35:857][769]LogScriptCore:Warning: Script Msg: Attempted to access index 13 from array Inventory of length 0!
+[2016.11.26-19.36.35:857][769]LogScriptCore:Warning: Script Msg: Attempted to access index 14 from array TargetArray of length 0!
+[2016.11.26-19.36.35:857][769]LogScriptCore:Warning: Script Msg: Attempted to access index 14 from array Inventory of length 0!
+[2016.11.26-19.36.35:857][769]LogScriptCore:Warning: Script Msg: Attempted to access index 15 from array TargetArray of length 0!
+[2016.11.26-19.36.35:857][769]LogScriptCore:Warning: Script Msg: Attempted to access index 15 from array Inventory of length 0!
+[2016.11.26-19.36.35:857][769]LogScriptCore:Warning: Script Msg: Attempted to access index 16 from array TargetArray of length 0!
+[2016.11.26-19.36.35:857][769]LogScriptCore:Warning: Script Msg: Attempted to access index 16 from array Inventory of length 0!
+[2016.11.26-19.36.35:858][769]LogScriptCore:Warning: Script Msg: Attempted to access index 17 from array TargetArray of length 0!
+[2016.11.26-19.36.35:858][769]LogScriptCore:Warning: Script Msg: Attempted to access index 17 from array Inventory of length 0!
+[2016.11.26-19.36.35:858][769]LogScriptCore:Warning: Script Msg: Attempted to access index 18 from array TargetArray of length 0!
+[2016.11.26-19.36.35:858][769]LogScriptCore:Warning: Script Msg: Attempted to access index 18 from array Inventory of length 0!
+[2016.11.26-19.36.35:858][769]LogScriptCore:Warning: Script Msg: Attempted to access index 19 from array TargetArray of length 0!
+[2016.11.26-19.36.35:858][769]LogScriptCore:Warning: Script Msg: Attempted to access index 19 from array Inventory of length 0!
+[2016.11.26-19.36.35:858][769]LogScriptCore:Warning: Script Msg: Attempted to access index 20 from array TargetArray of length 0!
+[2016.11.26-19.36.35:858][769]LogScriptCore:Warning: Script Msg: Attempted to access index 20 from array Inventory of length 0!
+[2016.11.26-19.36.35:858][769]LogScriptCore:Warning: Script Msg: Attempted to access index 21 from array TargetArray of length 0!
+[2016.11.26-19.36.35:858][769]LogScriptCore:Warning: Script Msg: Attempted to access index 21 from array Inventory of length 0!
+[2016.11.26-19.36.35:859][769]LogScriptCore:Warning: Script Msg: Attempted to access index 22 from array TargetArray of length 0!
+[2016.11.26-19.36.35:859][769]LogScriptCore:Warning: Script Msg: Attempted to access index 22 from array Inventory of length 0!
+[2016.11.26-19.36.35:859][769]LogScriptCore:Warning: Script Msg: Attempted to access index 23 from array TargetArray of length 0!
+[2016.11.26-19.36.35:859][769]LogScriptCore:Warning: Script Msg: Attempted to access index 23 from array Inventory of length 0!
+[2016.11.26-19.36.35:859][769]LogScriptCore:Warning: Script Msg: Attempted to access index 24 from array TargetArray of length 0!
+[2016.11.26-19.36.35:859][769]LogScriptCore:Warning: Script Msg: Attempted to access index 24 from array Inventory of length 0!
+[2016.11.26-19.37.00:281][964]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-1154.886 Y=306.677 Z=327.282] for [FirstPersonProjectile_C]
+[2016.11.26-19.37.05:324][205]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-593.361 Y=695.659 Z=315.767] for [FirstPersonProjectile_C]
+[2016.11.26-19.37.06:218][248]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-604.043 Y=709.247 Z=265.934] for [FirstPersonProjectile_C]
+[2016.11.26-19.37.06:770][275]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-600.052 Y=717.867 Z=245.510] for [FirstPersonProjectile_C]
+[2016.11.26-19.37.07:394][305]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-607.288 Y=697.542 Z=267.231] for [FirstPersonProjectile_C]
+[2016.11.26-19.37.20:108][935]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=1423.178 Y=1260.090 Z=321.286] for [FirstPersonProjectile_C]
+[2016.11.26-19.37.20:527][956]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=1355.984 Y=1244.652 Z=315.244] for [FirstPersonProjectile_C]
+[2016.11.26-19.37.21:142][986]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=1380.295 Y=1197.589 Z=287.711] for [FirstPersonProjectile_C]
+[2016.11.26-19.37.31:400][498]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-1056.312 Y=332.156 Z=278.126] for [FirstPersonProjectile_C]
+[2016.11.26-19.37.31:939][524]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-1084.255 Y=267.213 Z=255.042] for [FirstPersonProjectile_C]
+[2016.11.26-19.37.33:629][599]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-1151.117 Y=-273.483 Z=285.259] for [FirstPersonProjectile_C]
+[2016.11.26-19.37.36:150][718]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-837.790 Y=-448.219 Z=236.160] for [FirstPersonProjectile_C]
+[2016.11.26-19.37.36:751][747]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-751.016 Y=-457.238 Z=319.561] for [FirstPersonProjectile_C]
+[2016.11.26-19.37.42:617][ 37]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.11.26-19.37.42:750][ 37]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.11.26-19.48.00:471][359]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.149
+[2016.11.26-19.48.00:474][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_InventoryItem] ([1] browsable assets)...
+[2016.11.26-19.48.00:474][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_InventoryItem]
+[2016.11.26-19.48.00:474][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_InventoryItem" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_InventoryItem_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-19.48.00:554][359]LogSavePackage: Save=47.54ms
+[2016.11.26-19.48.00:554][359]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_InventoryItem_Auto3599CC3344AFF5D54D555DE9BD89C7E88.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_InventoryItem_Auto3.uasset'
+[2016.11.26-19.48.00:556][359]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_InventoryItem_Auto3.uasset
+[2016.11.26-19.48.00:557][359]LogFileHelpers: Auto-saving content packages took 0.084
+[2016.11.26-20.09.05:474][797]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-20.09.05:474][797]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-20.09.17:114][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/ItemInfo" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/ItemInfo.uasset" SILENT=true
+[2016.11.26-20.09.17:239][189]LogSavePackage: Save=20.79ms
+[2016.11.26-20.09.17:239][189]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/ItemInfoA3765D2D4E517CA4D21DFE9FE15F65EC.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/ItemInfo.uasset'
+[2016.11.26-20.09.17:246][189]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/ItemInfo.uasset
+[2016.11.26-20.10.05:998][941]LogSavePackage: Save=253.32ms
+[2016.11.26-20.10.05:998][941]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonExampleMap_Auto46B7C9DD5417DA86809D1B8B0F046154D.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2016.11.26-20.10.06:001][941]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap
+[2016.11.26-20.10.06:004][941]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.418
+[2016.11.26-20.10.06:004][941]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.418
+[2016.11.26-20.10.06:009][941]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2016.11.26-20.10.06:104][941]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2016.11.26-20.10.06:104][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2016.11.26-20.10.06:276][941]LogSavePackage: Save=156.89ms
+[2016.11.26-20.10.06:276][941]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonCharacter_Auto41195185A460EC4E417649BAE6BF8DFE6.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto4.uasset'
+[2016.11.26-20.10.06:277][941]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto4.uasset
+[2016.11.26-20.10.06:278][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interfaces/Interactable] ([1] browsable assets)...
+[2016.11.26-20.10.06:278][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interfaces/Interactable]
+[2016.11.26-20.10.06:278][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfaces/Interactable" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/Interfaces/Interactable_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-20.10.06:365][941]LogSavePackage: Save=11.48ms
+[2016.11.26-20.10.06:365][941]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Interactable_Auto42611539A4874AAB244D7EAB777DAA8FE.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/Interfaces/Interactable_Auto4.uasset'
+[2016.11.26-20.10.06:400][941]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/Interfaces/Interactable_Auto4.uasset
+[2016.11.26-20.10.06:401][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InteractableObject] ([1] browsable assets)...
+[2016.11.26-20.10.06:401][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/InteractableObject]
+[2016.11.26-20.10.06:401][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InteractableObject" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/InteractableObject_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-20.10.06:483][941]LogSavePackage: Save=65.20ms
+[2016.11.26-20.10.06:483][941]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/InteractableObject_Auto441A62026460F88AA9DEEF18D622AC18E.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/InteractableObject_Auto4.uasset'
+[2016.11.26-20.10.06:487][941]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/InteractableObject_Auto4.uasset
+[2016.11.26-20.10.06:488][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_Inventory] ([1] browsable assets)...
+[2016.11.26-20.10.06:488][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Inventory]
+[2016.11.26-20.10.06:488][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Inventory" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-20.10.06:575][941]LogSavePackage: Save=65.59ms
+[2016.11.26-20.10.06:575][941]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_Inventory_Auto4758FF4EB44492D68B35BB582828F5F83.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto4.uasset'
+[2016.11.26-20.10.06:577][941]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_Inventory_Auto4.uasset
+[2016.11.26-20.10.06:579][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_InventoryItem] ([1] browsable assets)...
+[2016.11.26-20.10.06:579][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_InventoryItem]
+[2016.11.26-20.10.06:579][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_InventoryItem" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_InventoryItem_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-20.10.06:625][941]LogSavePackage: Save=28.47ms
+[2016.11.26-20.10.06:627][941]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_InventoryItem_Auto43E3A07A14237F7CE664FC8A8C79261D6.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_InventoryItem_Auto4.uasset'
+[2016.11.26-20.10.06:631][941]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/UI/UI_InventoryItem_Auto4.uasset
+[2016.11.26-20.10.06:632][941]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Items/Base_Item] ([1] browsable assets)...
+[2016.11.26-20.10.06:730][941]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Items/Base_Item.Base_Item]
+[2016.11.26-20.10.06:730][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Base_Item]
+[2016.11.26-20.10.06:730][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Base_Item" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/Items/Base_Item_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-20.10.06:831][941]LogSavePackage: Save=45.54ms
+[2016.11.26-20.10.06:842][941]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Base_Item_Auto45D753EFB4BF968FFD05FD2B0298A05EF.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/Items/Base_Item_Auto4.uasset'
+[2016.11.26-20.10.06:844][941]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/Items/Base_Item_Auto4.uasset
+[2016.11.26-20.10.06:844][941]LogFileHelpers: Auto-saving content packages took 0.838
+[2016.11.26-20.11.03:219][111]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-20.11.03:219][111]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-20.12.37:016][124]BlueprintLog: New page: Compile UI_Inventory
+[2016.11.26-20.12.37:850][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Inventory" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset" SILENT=true
+[2016.11.26-20.12.37:940][138]LogSavePackage: Save=82.07ms
+[2016.11.26-20.12.37:940][138]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_Inventory69B1FD3C4EA87D29603ACFB7B40CAA1F.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset'
+[2016.11.26-20.12.37:978][138]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_Inventory.uasset
+[2016.11.26-20.12.56:350][471]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-20.12.56:350][471]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-20.13.45:708][535]BlueprintLog: New page: Compile UI_InventoryItem
+[2016.11.26-20.13.46:461][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_InventoryItem" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset" SILENT=true
+[2016.11.26-20.13.46:504][545]LogSavePackage: Save=30.67ms
+[2016.11.26-20.13.46:504][545]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_InventoryItem8A3A3504433DDB72F6A066A7A77C3B85.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset'
+[2016.11.26-20.13.46:520][545]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset
+[2016.11.26-20.14.02:519][753]BlueprintLog: New page: Compile UI_InventoryItem
+[2016.11.26-20.14.03:201][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_InventoryItem" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset" SILENT=true
+[2016.11.26-20.14.03:238][764]LogSavePackage: Save=28.72ms
+[2016.11.26-20.14.03:238][764]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/UI_InventoryItemDCF5BA0C400E81163450088FF196BB52.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset'
+[2016.11.26-20.14.03:242][764]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/UI/UI_InventoryItem.uasset
+[2016.11.26-20.17.53:656][641]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.26-20.20.07:611][726]LogSavePackage: Save=253.31ms
+[2016.11.26-20.20.07:611][726]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonExampleMap_Auto5C47963FF4E6DFF8DFBBD099BBBB57482.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2016.11.26-20.20.07:615][726]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap
+[2016.11.26-20.20.07:618][726]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.397
+[2016.11.26-20.20.07:618][726]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.397
+[2016.11.26-20.20.07:623][726]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2016.11.26-20.20.07:670][726]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2016.11.26-20.20.07:670][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2016.11.26-20.20.07:918][726]LogSavePackage: Save=234.54ms
+[2016.11.26-20.20.07:918][726]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonCharacter_Auto5F5485B8343EB13A79389E389F3A8FE4D.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto5.uasset'
+[2016.11.26-20.20.07:921][726]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto5.uasset
+[2016.11.26-20.20.07:922][726]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Items/Base_Item] ([1] browsable assets)...
+[2016.11.26-20.20.07:966][726]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Items/Base_Item.Base_Item]
+[2016.11.26-20.20.07:966][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Base_Item]
+[2016.11.26-20.20.07:966][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Base_Item" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/Items/Base_Item_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-20.20.08:019][726]LogSavePackage: Save=39.11ms
+[2016.11.26-20.20.08:019][726]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Base_Item_Auto5E78799A341258EAC6EDA12B3CE5D4E3F.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/Items/Base_Item_Auto5.uasset'
+[2016.11.26-20.20.08:021][726]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/Items/Base_Item_Auto5.uasset
+[2016.11.26-20.20.08:021][726]LogFileHelpers: Auto-saving content packages took 0.401
+[2016.11.26-20.31.00:505][624]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-20.31.00:505][624]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-20.31.23:443][340]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.11.26-20.31.23:573][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error Invalid property 'K2Node_Event_ItemInfo2' structure 'STRUCT_REINST_ItemInfo_24' error: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_ItemInfo_24' is not compiled
+[2016.11.26-20.31.23:573][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error Failed to create property K2Node_Event_ItemInfo2 from  <None>  due to a bad or unknown type (STRUCT REINST Item Info 24 Structure)
+[2016.11.26-20.31.23:573][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error Invalid property 'K2Node_Event_ItemInfo' structure 'STRUCT_REINST_ItemInfo_24' error: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_ItemInfo_24' is not compiled
+[2016.11.26-20.31.23:573][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error Failed to create property K2Node_Event_ItemInfo from  <None>  due to a bad or unknown type (STRUCT REINST Item Info 24 Structure)
+[2016.11.26-20.31.23:574][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error The property associated with  ItemInfo  could not be found
+[2016.11.26-20.31.23:604][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error ICE SetVariableOnPersistentFrame - No property found.  ItemInfo
+[2016.11.26-20.31.23:604][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error Invalid property 'ItemInfo' structure 'STRUCT_REINST_ItemInfo_24' error: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_ItemInfo_24' is not compiled
+[2016.11.26-20.31.23:604][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error Failed to create property ItemInfo from  <None>  due to a bad or unknown type (STRUCT REINST Item Info 24 Structure)
+[2016.11.26-20.31.23:604][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error Cannot order parameters ItemInfo in function Pickup.
+[2016.11.26-20.31.23:604][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error The property associated with  ItemInfo  could not be found
+[2016.11.26-20.31.23:604][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error ICE SetVariableOnPersistentFrame - No property found.  ItemInfo
+[2016.11.26-20.31.23:604][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error Invalid property 'ItemInfo' structure 'STRUCT_REINST_ItemInfo_24' error: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_ItemInfo_24' is not compiled
+[2016.11.26-20.31.23:605][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error Failed to create property ItemInfo from  <None>  due to a bad or unknown type (STRUCT REINST Item Info 24 Structure)
+[2016.11.26-20.31.23:605][340]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error Cannot order parameters ItemInfo in function UseItem.
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error Invalid property 'K2Node_Event_ItemInfo2' structure 'STRUCT_REINST_ItemInfo_24' error: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_ItemInfo_24' is not compiled
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error Failed to create property K2Node_Event_ItemInfo2 from  <None>  due to a bad or unknown type (STRUCT REINST Item Info 24 Structure)
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error Invalid property 'K2Node_Event_ItemInfo' structure 'STRUCT_REINST_ItemInfo_24' error: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_ItemInfo_24' is not compiled
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error Failed to create property K2Node_Event_ItemInfo from  <None>  due to a bad or unknown type (STRUCT REINST Item Info 24 Structure)
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error The property associated with  ItemInfo  could not be found
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error ICE SetVariableOnPersistentFrame - No property found.  ItemInfo
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error Invalid property 'ItemInfo' structure 'STRUCT_REINST_ItemInfo_24' error: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_ItemInfo_24' is not compiled
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error Failed to create property ItemInfo from  <None>  due to a bad or unknown type (STRUCT REINST Item Info 24 Structure)
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error Cannot order parameters ItemInfo in function Pickup.
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error The property associated with  ItemInfo  could not be found
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error ICE SetVariableOnPersistentFrame - No property found.  ItemInfo
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error Invalid property 'ItemInfo' structure 'STRUCT_REINST_ItemInfo_24' error: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_ItemInfo_24' is not compiled
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error Failed to create property ItemInfo from  <None>  due to a bad or unknown type (STRUCT REINST Item Info 24 Structure)
+[2016.11.26-20.31.24:971][340]BlueprintEditorCompileResults:Error: Error Cannot order parameters ItemInfo in function UseItem.
+[2016.11.26-20.31.24:971][340]LogBlueprint:Warning: [Compiler FirstPersonCharacter] Warning [8004.75] Compile of FirstPersonCharacter failed. 14 Fatal Issue(s) 0 Warning(s) [in 1,527 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2016.11.26-20.31.59:045][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/ItemInfo" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/ItemInfo.uasset" SILENT=true
+[2016.11.26-20.31.59:076][459]LogSavePackage: Save=13.74ms
+[2016.11.26-20.31.59:076][459]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/ItemInfoC23623014F63D5D24313FDB60D08B52E.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/ItemInfo.uasset'
+[2016.11.26-20.31.59:079][459]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/ItemInfo.uasset
+[2016.11.26-20.32.04:566][641]BlueprintLog: New page: Compile Base_Item
+[2016.11.26-20.32.06:560][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Base_Item" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/Base_Item.uasset" SILENT=true
+[2016.11.26-20.32.06:622][664]LogSavePackage: Save=44.94ms
+[2016.11.26-20.32.06:622][664]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Base_Item99BB399349801294E43F879F2A7BEA8A.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/Base_Item.uasset'
+[2016.11.26-20.32.06:635][664]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/Base_Item.uasset
+[2016.11.26-20.32.18:886][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/ItemInfo" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/ItemInfo.uasset" SILENT=true
+[2016.11.26-20.32.18:903][ 58]LogSavePackage: Save=9.57ms
+[2016.11.26-20.32.18:903][ 58]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/ItemInfoA3943C1F4FE1F6F851AEE6A8BC514B8C.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/ItemInfo.uasset'
+[2016.11.26-20.32.18:905][ 58]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/ItemInfo.uasset
+[2016.11.26-20.32.25:793][281]BlueprintLog: New page: Compile Interactable
+[2016.11.26-20.32.26:755][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfaces/Interactable" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Interfaces/Interactable.uasset" SILENT=true
+[2016.11.26-20.32.26:786][299]LogSavePackage: Save=14.72ms
+[2016.11.26-20.32.26:786][299]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Interactable66046EC14C5F8F5D778D38A4E352E40A.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Interfaces/Interactable.uasset'
+[2016.11.26-20.32.26:799][299]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Interfaces/Interactable.uasset
+[2016.11.26-20.32.32:078][457]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.11.26-20.33.03:983][743]LogSavePackage: Save=307.72ms
+[2016.11.26-20.33.03:983][743]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonExampleMap_Auto6AB3850D4460D21A5BDD3D0821291852F.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2016.11.26-20.33.03:990][743]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap
+[2016.11.26-20.33.03:993][743]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.430
+[2016.11.26-20.33.03:993][743]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.430
+[2016.11.26-20.33.04:000][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2016.11.26-20.33.04:054][743]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2016.11.26-20.33.04:054][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2016.11.26-20.33.04:257][743]LogSavePackage: Save=180.17ms
+[2016.11.26-20.33.04:257][743]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonCharacter_Auto69055E448437BE068D82E6E918150DE97.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto6.uasset'
+[2016.11.26-20.33.04:258][743]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto6.uasset
+[2016.11.26-20.33.04:259][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InteractableObject] ([1] browsable assets)...
+[2016.11.26-20.33.04:259][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/InteractableObject]
+[2016.11.26-20.33.04:259][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InteractableObject" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/InteractableObject_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-20.33.04:302][743]LogSavePackage: Save=26.16ms
+[2016.11.26-20.33.04:303][743]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/InteractableObject_Auto6E29E17C1420D0B372E7AD99276E56BA7.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/InteractableObject_Auto6.uasset'
+[2016.11.26-20.33.04:304][743]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/InteractableObject_Auto6.uasset
+[2016.11.26-20.33.04:305][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Items/Base_Item] ([1] browsable assets)...
+[2016.11.26-20.33.04:350][743]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Items/Base_Item.Base_Item]
+[2016.11.26-20.33.04:350][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Base_Item]
+[2016.11.26-20.33.04:350][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Base_Item" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/Items/Base_Item_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2016.11.26-20.33.04:405][743]LogSavePackage: Save=47.24ms
+[2016.11.26-20.33.04:405][743]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Base_Item_Auto6ADE3F94C491ACA8EB48762BBC7F5F7D5.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/Items/Base_Item_Auto6.uasset'
+[2016.11.26-20.33.04:407][743]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/Items/Base_Item_Auto6.uasset
+[2016.11.26-20.33.04:407][743]LogFileHelpers: Auto-saving content packages took 0.410
+[2016.11.26-20.33.53:924][962]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-20.33.53:924][962]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.26-20.34.40:076][ 52]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.11.26-20.34.41:542][ 66]LogSavePackage: Save=169.40ms
+[2016.11.26-20.34.41:542][ 66]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonCharacter5124D69241230DEDC6693C9CB97B3D6F.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2016.11.26-20.34.41:556][ 66]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2016.11.26-20.36.43:977][366]LogMetaData: Removing '/Game/Items/Weapons/Base_Weapon.Base_Weapon:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Items/Base_Weapon.PackageMetaData'
+[2016.11.26-20.36.43:977][366]LogMetaData: Removing '/Game/Items/Weapons/Base_Weapon.SKEL_Base_Weapon_C:UserConstructionScript' ref from Metadata '/Game/Items/Base_Weapon.PackageMetaData'
+[2016.11.26-20.36.43:977][366]LogMetaData: Removing '/Game/Items/Weapons/Base_Weapon.SKEL_Base_Weapon_C' ref from Metadata '/Game/Items/Base_Weapon.PackageMetaData'
+[2016.11.26-20.36.43:977][366]LogMetaData: Removing '/Game/Items/Weapons/Base_Weapon.Base_Weapon_C:UserConstructionScript' ref from Metadata '/Game/Items/Base_Weapon.PackageMetaData'
+[2016.11.26-20.36.43:977][366]LogMetaData: Removing '/Game/Items/Weapons/Base_Weapon.Base_Weapon_C' ref from Metadata '/Game/Items/Base_Weapon.PackageMetaData'
+[2016.11.26-20.36.43:977][366]LogMetaData: Removing '/Game/Items/Weapons/Base_Weapon.Base_Weapon:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Items/Base_Weapon.PackageMetaData'
+[2016.11.26-20.36.43:977][366]LogMetaData: Removing '/Game/Items/Weapons/Base_Weapon.Base_Weapon:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Items/Base_Weapon.PackageMetaData'
+[2016.11.26-20.36.43:977][366]LogMetaData: Removing '/Game/Items/Weapons/Base_Weapon.Base_Weapon:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Items/Base_Weapon.PackageMetaData'
+[2016.11.26-20.36.44:073][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Weapons/Base_Weapon" FILE="C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/Weapons/Base_Weapon.uasset" SILENT=true
+[2016.11.26-20.36.44:122][366]LogSavePackage: Save=46.04ms
+[2016.11.26-20.36.44:122][366]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Base_WeaponCDB4F970446E0C02948F64950B76B91C.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/Weapons/Base_Weapon.uasset'
+[2016.11.26-20.36.44:127][366]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Content/Items/Weapons/Base_Weapon.uasset
+[2016.11.26-20.43.05:475][581]LogSavePackage: Save=319.81ms
+[2016.11.26-20.43.05:475][581]LogSavePackage: Moving 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/FirstPersonExampleMap_Auto77A29056140D73F05F70180AC5D14E0C6.tmp' to 'C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap'
+[2016.11.26-20.43.05:479][581]LogSavePackage:Display: Finished SavePackage C:/Users/Dean/Documents/Unreal Projects/DiselPunk/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap
