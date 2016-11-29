@@ -46,3 +46,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 Saved/
+Intermediate/Build/
+Binaries/
+Source/DiselPunk/Utility.h
+Source/DiselPunkEditor.Target.cs
+Source/DiselPunk/Utility.cpp
+Source/DiselPunk/DiselPunk.h
+Source/DiselPunk/DiselPunk.cpp
+DiselPunk.VC.db

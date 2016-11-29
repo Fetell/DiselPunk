@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\DiselPunk.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{60CB9DDF-151D-41A0-9C63-7CEB6549CB11}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\DiselPunk.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\DiselPunkEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{D05E1805-B77C-4E7B-8507-08D51DC4AD25}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\DiselPunk">
+			<UniqueIdentifier>{71235A48-BA73-499B-994D-E3FEB2F17174}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\DiselPunk\DiselPunk.Build.cs">
+			<Filter>Source\DiselPunk</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\DiselPunk\DiselPunk.cpp">
+			<Filter>Source\DiselPunk</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\DiselPunk\DiselPunk.h">
+			<Filter>Source\DiselPunk</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\DiselPunk\Utility.cpp">
+			<Filter>Source\DiselPunk</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\DiselPunk\Utility.h">
+			<Filter>Source\DiselPunk</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
